@@ -1,0 +1,12 @@
+Integer Division produces floating results
+String Conversion:
+        int(),float()
+
+#comment
+
+integer is implicitly converted to a float when in expression with float
+
+None : like null
+
+== : equal in value
+is : equal in type and value
