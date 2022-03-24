@@ -22,3 +22,15 @@ split(): Removes specified characters(default is white space) from String and cr
 dictionary:
   stuff = dict()
   dict() same as { }
+  .get(key, default) -- get the value of the key; if not in dict() then set to default value
+  list(a dict) -- get all keys
+  .kets() -- get all keys
+  .values() -- get all values
+  .items() -- get a list of both key value
+
+  we can:
+    Two iteration variables:
+      for var1,var2 in list.items():
+        print(var1,var2)
+
+        where var1 is key, var2 is value, and .items() returns a k,v pair
