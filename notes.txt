@@ -11,4 +11,14 @@ None : like null
 == : equal in value
 is : equal in type and value
 
- 
+open() returns a "file handle" - a variable used to perform operations on the file.
+
+list:
+    to make a list: stuff = [] or list()
+
+split(): Removes specified characters(default is white space) from String and creates a List from it
+
+
+dictionary:
+  stuff = dict()
+  dict() same as { }
